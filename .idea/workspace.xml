@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c173bd8d-a367-44e2-a9df-922c981b2d93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dinocodai/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dinocodai/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/dinocodai/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/corona_statusbar_icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/ic_maps_indicator_current_position.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/ic_maps_indicator_current_position_anim1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/ic_maps_indicator_current_position_anim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/ic_maps_indicator_current_position_anim3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/ic_menu_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-hdpi-v4/ic_menu_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/corona_statusbar_icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/ic_maps_indicator_current_position.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/ic_maps_indicator_current_position_anim1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/ic_maps_indicator_current_position_anim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/ic_maps_indicator_current_position_anim3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/ic_menu_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-mdpi-v4/ic_menu_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/corona_statusbar_icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/ic_maps_indicator_current_position.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/ic_menu_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xhdpi-v4/ic_menu_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/corona_statusbar_icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/ic_maps_indicator_current_position.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/ic_menu_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/drawable-xxhdpi-v4/ic_menu_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-hdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-hdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-hdpi-v4/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xhdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xhdpi-v4/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xxhdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xxhdpi-v4/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xxxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xxxhdpi-v4/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mipmap-xxxhdpi-v4/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_holo_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_holo_dark_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_holo_dark_4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_holo_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_holo_light_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_android_holo_light_4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_ios.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_ios7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_ios7_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_ios7_4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_ios_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_onoff_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_onoff_mask_android_holo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/raw/corona_asset_widget_theme_pickerwheel_mask.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mb3BlyhCkp1cl3LiECfXQyhNAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/lampham/dino/dino-co-dai/src/main/resources/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c173bd8d-a367-44e2-a9df-922c981b2d93" name="Changes" comment="" />
+      <created>1678022324471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678022324471</updated>
+      <workItem from="1678022325654" duration="2171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

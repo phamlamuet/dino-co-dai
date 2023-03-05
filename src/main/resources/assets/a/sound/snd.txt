@@ -1,0 +1,1 @@
+{"common":[{"id":"button","path":"a/sound/common/button.mp3"}],"game":[{"id":"unlock","path":"a/sound/game/unlock.mp3"},{"id":"alert","path":"a/sound/game/alert.mp3"},{"id":"jingle_gold","path":"a/sound/game/jingle_gold.mp3"},{"id":"jingle_tic_gold","path":"a/sound/game/jingle_tic_gold.mp3"}]}

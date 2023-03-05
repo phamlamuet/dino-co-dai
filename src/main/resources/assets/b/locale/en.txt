@@ -1,0 +1,108 @@
+------------------------------------------------------------------
+-- English (en-US)
+------------------------------------------------------------------
+
+sys_ads_error = Oops! Ad is not ready yet.\nPlease try again later.
+sys_audio_error = Oops! Audio could not be played.
+sys_rate_caption = Give me some love!
+sys_rate_msg = Please give me some love and\n5-star rating.\nI like to be alone, but I hate being lonely.
+sys_rate_yes = Rate Now
+sys_rate_no = Maybe later
+
+title_like_a_dino = Like Dino!
+sub_title_like_a_dino = 
+
+dino = Dino
+dina = Dina
+dia = Dia
+dio = Dio
+diona = Diona
+
+heading_love_story = - Love Story -
+heading_short_story = - Short Story -
+heading_babies = - Babies -
+heading_special_edition = - Special Edition -
+heading_songs = - Mood -
+heading_pause = - Pause -
+heading_about = - Dear Friends -
+heading_akari_hikari = - Akari & Hikari -
+
+ui_ok = OK
+ui_cancel = Cancel
+ui_buy = Buy
+ui_free = Free
+ui_close = Close
+ui_love_story = Love Story
+ui_songs = Mood
+ui_home = Home
+ui_go_to_subscribe = Go To Subscribe!
+ui_go_to_community = Go Check It Out!
+ui_resume = Resume
+ui_speed = Speed
+ui_tempo = Tempo
+ui_score = Score
+ui_best = Best
+ui_best_score = Best Score
+ui_new = NEW
+ui_locked = Locked
+ui_splash_msg = Kindly use headphones for\nbest experience.
+ui_thanks_msg = Thanks for playing my game!
+ui_thanks_alert = Thanks For Playing!
+ui_get_1000_coins = Get 1,000 Coins
+
+success_01 = Awesome!
+success_02 = Excellent!
+success_03 = Splendid!
+success_04 = Wonderful!
+success_05 = Fantastic!
+success_06 = Incredible!
+success_07 = Brilliant!
+success_08 = Marvelous!
+success_09 = Phenomenal!
+success_10 = Super-Duper!
+success_11 = Perfect!
+
+fail_01 = Oops!
+fail_02 = Oops!
+
+song_like_a_dino = Like A Dino!
+song_its_ok_to_not_be_ok = It's OK, Not To Be OK!
+song_good_luck_today = Good Luck Today!
+song_a_piece_of_cake = A Piece Of Cake!
+song_im_so_excited = I'm So Excited!
+song_it_is_what_it_is = It Is What It Is!
+song_a_silver_lining = A Silver Lining!
+song_so_sweet = So Süß!
+song_you_made_my_day = You Made My Day!
+song_marriage_proposal = Marriage Proposal!
+song_over_the_moon = Over The Moon!
+song_waddle_waddle = Waddle! Waddle!
+
+msg_not_enough_coins = Not enough coins!
+msg_swipe_to_start = Swipe To Start!
+msg_swipe_to_continue = Swipe To Continue!
+msg_lets_start = Let's Start!
+msg_speed_up = Speed Up!
+msg_its_okay = It's Okay!
+msg_its_ok_to_not_be_ok = It's OK, Not To Be OK!
+
+script_dino_001 = Will you marry me?
+script_dina_001 = Yes!
+script_dino_002 = I, Dino, take you, Dina,\nto be my wife.
+script_dina_002 = I, Dina, take you, Dino,\nto be my husband.
+script_dino_003 = I love you sweetheart. Happy honeymoon!
+script_dina_003 = I love you too honey, and our honeymoon as well!
+script_dino_004 = I still can't believe we're married!
+script_dina_004 = This isn't a dream!
+script_dino_005 = Thank you for 1 Million subscribers!
+script_dina_005 = Thank you for 1 Million subscribers!
+script_dia_001 = Hi! I'm Dia. I have the courage of a hundred lions. I’m ready to dive into anything!
+script_dio_001 = Hi! I'm Dio. I have as much patience as a snail. If given enough time, I can accomplish anything!
+script_diona_001 = Hi! I’m Diona. If something new and exciting is happening somewhere, I'm sure to be there!
+script_short_story_001 = Aren’t you curious to know why Dino’s neck is getting longer?
+
+letter_1 = Hello friends, I’m super_toki.\n\nI am writing this because I want to share my dream story with everyone who enjoys my game.\n\nI have been working almost every early dawn, writing scenarios and drawing concept arts to fulfill my dream of creating an animation full of positive energy.
+letter_pic_desc = < Concept art for animation >
+letter_2 = I am planning to release the animation on YouTube when it is complete.\n\n2 years, 3 years, or even 10? I cannot promise when it will be finished.\n\nBut, I will promise these two things.\n\nOne, I will complete the animation.\n\nAnd Two, I will put the names of everyone who believed in me and subscribed in the end credits.
+letter_3 = Also, if you subscribe, you’ll get 3,000 coins for free!
+letter_4 = Sincerely,\n\nsuper_toki
